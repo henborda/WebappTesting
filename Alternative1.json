@@ -1,0 +1,89 @@
+{
+    "questions": [
+        
+        {
+            "title": "Hva er formålet med enhetstesting i programvareutvikling?",
+            "answers": [
+                {
+                    "answer": "Å teste hele applikasjonen som en helhet."
+                },
+                {
+                    "answer": "Å validere at brukergrensesnittet er brukervennlig."
+                },
+                {
+                    "answer": "Å identifisere og fikse feil i isolerte deler av koden.",
+                    "correct": true
+                },
+                {
+                    "answer": "ÅÅ skape mer arbeid i utviklingsprosessen"
+                }
+            ],
+            "helper": {
+                "text": "Enhetstesting skal hjelpe å identifisere og fikse feil i isolerte deler av koden"
+            }
+        },
+        {
+            "title": "Hvilket av disse testrammeverk brukes i React?",
+            "answers": [
+                {
+                    "answer": "Jasmine rammeverk for testing."
+                },
+                {
+                    "answer": "Cypress rammeverk for testing."
+                },
+                {
+                    "answer": "Jest rammeverk for testing.",
+                    "correct": true
+                },
+                {
+                    "answer": "Pytest rammeverk for testing."
+                }
+            ],
+            "helper": {
+                "text": "J"
+            }
+        },
+        {
+            "title": "Hva er hovedformålet med bruk av mocks i programvaretesting?",
+            "answers": [
+                {
+                    "answer": "Å generere tilfeldige testdata."
+                },
+                {
+                    "answer": "Å erstatte ekte avhengigheter med simulerte objekter for å isolere komponenten som testes.",
+                    "correct": true
+                },
+                {
+                    "answer": "Å optimalisere ytelsen til testene."
+                },
+                {
+                    "answer": "Har ingen formål i programmvaretesting."
+                }
+            ],
+            "helper": {
+                "text": "Mocks brukes i programvaretesting for å erstatte ekte avhengigheter med simulerte objekter"
+            }
+        },
+        {
+            "title": "Hva er formålet med integrasjonstesting?",
+            "answers": [
+                {
+                    "answer": "Å teste en enkelt funksjon i isolasjon."
+                },
+                {
+                    "answer": "Å teste hvordan ulike komponenter samhandler og integrerer i en større del av programvaren.",
+                    "correct": true
+                },
+                {
+                    "answer": "SKape mer jobb i utviklingsprosessen"
+                },
+                {
+                    "answer": "Å validere brukergrensesnittets brukervennlighet."
+                }
+            ],
+            "helper": {
+                "text": "Integrasjonstesting fokuserer på å teste hvordan ulike komponenter samhandler"
+            }
+        }
+    ]
+}
